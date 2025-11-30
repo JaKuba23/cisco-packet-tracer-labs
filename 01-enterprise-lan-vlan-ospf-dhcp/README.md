@@ -25,7 +25,7 @@ Links (logical):
 - PC3 → S2 Fa0/1 (VLAN 30 – USERS)
 - PC4 → S3 Fa0/1 (VLAN 40 – GUESTS)
 
-Topology and test view: see `tests/01-connectivity-overview.png`.
+Topology and test view: see `tests/overview.png`.
 
 ## IP Plan
 
