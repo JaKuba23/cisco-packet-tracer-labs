@@ -1,9 +1,3 @@
-Enterprise Multi-Site Network - OSPF, Central DHCP & HTTP
-Technologies: Cisco IOS, OSPF (single-area), DHCP relay, routed LANs, DNS, HTTP server, STP
-Tools: Cisco Packet Tracer
-Goal
-Design and implement a small but realistic enterprise network with three routed sites and centralized services. The lab demonstrates how to build IP addressing, dynamic routing and central DHCP/DNS/HTTP so that every host, regardless of location, gets its configuration automatically, reaches other subnets and opens an internal web portal.
-Topology
 # Enterprise Multi-Site Network - OSPF, Central DHCP & HTTP
 
 **Technologies:** Cisco IOS, OSPF (single-area), DHCP relay, routed LANs, DNS, HTTP server, STP  
